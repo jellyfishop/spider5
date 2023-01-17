@@ -1,0 +1,33 @@
+#kk{
+    width: 328px;
+    height: 400px;
+    background-color: rgb(125, 122, 122);
+    border-radius: 20px;
+    border: solid rgb(0, 0, 0) 1px;
+    margin-left: 35%;
+    margin-top: 70px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+form{
+    width: 300px;
+    
+    
+}
+::placeholder{
+    text-align: right;
+
+
+}
+@media(max-width:400px)
+{
+    button{
+
+    }
+}
+#nn{
+    text-align: center;
+    
+}
